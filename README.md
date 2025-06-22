@@ -6,12 +6,6 @@
 🎓 MSc Cybersecurity student &bull; 💻 Code enthusiast &bull; 🧠 Always learning  
 </p>
 
----
-### 🔄 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Eris05/Eris05/blob/output/github-contribution-grid-snake.svg" />
-</p>
----
 
 ### 👩‍💻 About Me
 
