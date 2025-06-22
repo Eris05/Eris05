@@ -7,6 +7,11 @@
 </p>
 
 ---
+### 🔄 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Eris05/Eris05/blob/output/github-contribution-grid-snake.svg" />
+</p>
+---
 
 ### 👩‍💻 About Me
 
@@ -41,16 +46,5 @@ I love crafting clean, reliable code.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eris05&layout=compact&theme=radical&hide_title=true" width="48%" />
 </p>
 
----
 
-### 🔄 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Eris05/Eris05/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
----
-
-### 📊 GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Eris05&theme=react-dark" />
-</p>
