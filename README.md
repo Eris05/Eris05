@@ -32,4 +32,32 @@ I love crafting clean, reliable code.
 
 </div>
 
+---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Eris05&theme=gruvbox&margin-w=10&no-frame=true" />
+</p>
+
+---
+
+### 📈 Stats & Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eris05&show_icons=true&theme=radical&hide_title=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eris05&layout=compact&theme=radical&hide_title=true" width="48%" />
+</p>
+
+---
+
+### 🔄 Contribution Snake
+<!-- Funziona solo se configuri GitHub Actions -->
+<p align="center">
+  <img src="https://github.com/Eris05/Eris05/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 📊 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Eris05&theme=react-dark" />
+</p>
