@@ -34,12 +34,6 @@ I love crafting clean, reliable code.
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eris05&theme=gruvbox&margin-w=10&no-frame=true" />
-</p>
-
----
 
 ### 📈 Stats & Languages
 <p align="center">
@@ -50,7 +44,6 @@ I love crafting clean, reliable code.
 ---
 
 ### 🔄 Contribution Snake
-<!-- Funziona solo se configuri GitHub Actions -->
 <p align="center">
   <img src="https://github.com/Eris05/Eris05/blob/output/github-contribution-grid-snake.svg" />
 </p>
