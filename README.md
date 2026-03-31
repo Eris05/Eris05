@@ -66,6 +66,6 @@ Hi, I'm **Eliana** — a Cybersecurity graduate student passionate about the int
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/eliana-sposato">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://linkedin.com/in/eliana-sposato-237883368/">LinkedIn</a> &nbsp;•&nbsp;
   <a href="mailto:elianasposato2@gmail.com">Email</a>
 </p>
