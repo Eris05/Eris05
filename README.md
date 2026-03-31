@@ -57,23 +57,15 @@ Hi, I'm **Eliana** — a Cybersecurity graduate student passionate about the int
 
 | Project | Description | Stack |
 |---|---|---|
-| [**qa-platform-ai**](https://github.com/Eris05/progetto) | Full-stack Q&A platform with AI auto-response, deployed on AWS | Spring Boot · Flutter · PostgreSQL · Docker · AWS · HuggingFace |
-| [**architetture**](https://github.com/Eris05/architetture) | Low-level Correlation Feature Selection with SIMD & parallelism | C · Assembly x86 · SSE · AVX · OpenMP |
-| [**AI**](https://github.com/Eris05/AI) | Automated planning with custom Modified A* algorithm | Java · PDDL4J |
-| [**ecommerce-piattaforme**](https://github.com/Eris05/ecommerce-piattaforme) | Full-stack online bookstore | Dart · Flutter |
+| [**qa-platform-ai**](https://github.com/Eris05/QandA-Platform) | Full-stack Q&A platform with AI auto-response, deployed on AWS | Spring Boot · Flutter · PostgreSQL · Docker · AWS · HuggingFace |
+| [**architetture**](https://github.com/Eris05/CFS_Optimization) | Low-level Correlation Feature Selection with SIMD & parallelism | C · Assembly x86 · SSE · AVX · OpenMP |
+| [**AI**](https://github.com/Eris05/AI_Planning) | Automated planning with custom Modified A* algorithm | Java · PDDL4J |
+| [**ecommerce-piattaforme**](https://github.com/Eris05/Bookstore) | Full-stack online bookstore | Dart · Flutter |
 
----
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eris05&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eris05&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
 
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/elianasposato">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://linkedin.com/in/eliana-sposato">LinkedIn</a> &nbsp;•&nbsp;
   <a href="mailto:elianasposato2@gmail.com">Email</a>
 </p>
